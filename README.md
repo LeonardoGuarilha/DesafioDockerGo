@@ -1,4 +1,4 @@
-# DesafioDockerGo
+# Desafio Docker Go
 Este repositório contém o desafio de docker com **GoLang** do curso **FullCycle 3.0**
 
 ## Desafio GO
